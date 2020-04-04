@@ -1,8 +1,9 @@
 /*
  * main.c
  *
- *  Created on: Apr 2, 2020
- *      Author: hp
+ *  Created on	: Apr 2, 2020
+ *  Version			: 1.0.1
+ *  Author			: Ahmed El-Gaafarwy
  */
 #include "../LIBRARY/stdTypes.h"
 #include "../LIBRARY/BIT_MATH.h"

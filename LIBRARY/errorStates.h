@@ -2,8 +2,8 @@
  * errorStates.h
  *
  *  Created on	: Mar 28, 2020
- *  Version		: 1.0.1
- *      Author	: Ahmed El-Gaafarwy
+ *  Version			: 1.0.1
+ *  Author			: Ahmed El-Gaafarwy
  */
 
 #ifndef ERRORSTATES_H_

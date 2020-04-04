@@ -1,8 +1,9 @@
 /*
  * stdTypes.h
  *
- *  Created on: Aug 23, 2019
- *      Author: hp
+ *  Created on	: Aug 23, 2019
+ *  Version			: 1.0.1
+ *  Author			: Ahmed El-Gaafarwy
  */
 
 #ifndef STDTYPES_H_
